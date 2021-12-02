@@ -1,0 +1,69 @@
+/* Jake Strobel 2021 Custom CSS */
+
+
+#page1 {
+  background-color: #ddd;
+}
+
+
+/* Index page */
+
+#page1-body header.masthead:before {
+  background-color: #aaa;
+}
+
+.site-heading > h1 {
+  color: black;
+  font-size: 6rem;
+  font-family: arial;
+  font-weight: 700;
+}
+
+#page1-body .site-heading > .subheading {
+  color: #333;
+  font-size: 3rem;
+  font-family: arial;
+  font-weight: 400;
+}
+
+.welcome-title {
+  padding-top: 60px;
+}
+
+
+/* About page */
+
+.custom-content {
+  background-color: black;
+  color: white;
+  /* font-size: 1rem; */
+}
+
+.custom-content a {
+  color: white;
+}
+
+.about-custom-body {
+  background-color: black;
+}
+
+
+.content-image {
+  width: 100%;
+  padding: 40px;
+}
+
+
+
+
+
+
+#page2 {
+  background-color: #ddd;
+
+}
+
+#page3 {
+  background-color: #ddd;
+
+}
